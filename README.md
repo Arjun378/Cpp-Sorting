@@ -21,7 +21,7 @@ Selection Sort is a straightforward comparison-based sorting algorithm. It repea
 4. Repeat steps 1-3 until the array is sorted.
 
 ### Code
-You can find the Selection Sort code in the `selection_sort.cpp` file.
+You can find the Selection Sort code in the `selection sort.cpp` file.
 
 ## Insertion Sort
 
@@ -34,7 +34,7 @@ Insertion Sort is another straightforward sorting algorithm that constructs the 
 3. Repeat this process for each element in the array.
 
 ### Code
-You can find the Insertion Sort code in the `insertion_sort.cpp` file.
+You can find the Insertion Sort code in the `insertion sort.cpp` file.
 
 ## Bubble Sort
 
@@ -47,7 +47,7 @@ Bubble Sort is a simple sorting algorithm that repeatedly moves through the list
 3. Continue this process for each element until no more swaps are needed.
 
 ### Code
-You can find the Bubble Sort code in the `bubble_sort.cpp` file.
+You can find the Bubble Sort code in the `bubble sort.cpp` file.
 
 ## Selection Sort:
 ![Screenshot 2023-10-25 195208](https://github.com/Arjun378/Cpp-Sorting/assets/74441883/61beec40-a3d4-4f34-a0ae-51e090ec55fa)
